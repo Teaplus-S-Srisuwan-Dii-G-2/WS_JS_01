@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@100&display=swap");
+* {
+  margin: 1px;
+  padding: 5px;
+  font-family: Lucida Handwriting;
+}
+
+body {
+  background-image: radial-gradient(ellipse, #292929, #1f1f1d, #3d3d3d);
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table .tx {
+  border-radius: 5px;
+  color: black;
+  font-weight: bold;
+  background: #bdbdbd;
+}
+
+table input {
+  color: black;
+  background-color: white;
+}
+
+table select {
+  background-color: white;
+  color: black;
+}
+
+table option {
+  color: black;
+  background-color: white;
+}
+
+input {
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

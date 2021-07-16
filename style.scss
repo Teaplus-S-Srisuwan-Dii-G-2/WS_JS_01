@@ -1,0 +1,46 @@
+$textcolor:rgb(0, 0, 0);
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100&display=swap');
+
+*{
+    margin: 1px;
+    padding: 5px;
+    font-family: Lucida Handwriting;
+}
+
+body{
+    background-image: radial-gradient(ellipse, rgb(41, 41, 41), rgb(31, 31, 29), rgb(61, 61, 61));
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    .tx{
+        
+        border-radius: 5px;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        background:rgb(189, 189, 189);
+    }
+    
+    input{
+        color: rgb(0, 0, 0);
+        background-color: white;
+    }
+    select{
+        background-color: white;
+        color: rgb(0, 0, 0);
+    }
+    option{
+        color: rgb(0, 0, 0);
+        background-color: white;
+    }
+
+}
+input{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
